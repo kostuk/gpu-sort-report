@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cdpSimpleQuicksort", "cdpSimpleQuicksort\cdpSimpleQuicksort_vs2022.vcxproj", "{DF4F32EA-FDD7-4ED1-AB03-343A3E48C479}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cdpAdvancedQuicksort", "cdpAdvancedQuicksort\cdpAdvancedQuicksort_vs2022.vcxproj", "{B8F85EA2-2632-431A-8B05-B6611A2C3DA2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "radixSortThrust", "radixSortThrust\radixSortThrust_vs2022.vcxproj", "{88B1A75E-71F1-47CF-A146-30340CE8E150}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC0D43E1-FED2-4707-9B50-7BBE4B5E58D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergeSort", "mergeSort\mergeSort_vs2022.vcxproj", "{C2238B36-BA0A-432D-9381-A638B6509BFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sortingNetworks", "sortingNetworks\sortingNetworks_vs2022.vcxproj", "{58997C83-5370-4D16-AFAF-019AE47B75F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4F32EA-FDD7-4ED1-AB03-343A3E48C479}.Debug|x64.ActiveCfg = Debug|x64
+		{DF4F32EA-FDD7-4ED1-AB03-343A3E48C479}.Debug|x64.Build.0 = Debug|x64
+		{DF4F32EA-FDD7-4ED1-AB03-343A3E48C479}.Release|x64.ActiveCfg = Release|x64
+		{DF4F32EA-FDD7-4ED1-AB03-343A3E48C479}.Release|x64.Build.0 = Release|x64
+		{B8F85EA2-2632-431A-8B05-B6611A2C3DA2}.Debug|x64.ActiveCfg = Debug|x64
+		{B8F85EA2-2632-431A-8B05-B6611A2C3DA2}.Debug|x64.Build.0 = Debug|x64
+		{B8F85EA2-2632-431A-8B05-B6611A2C3DA2}.Release|x64.ActiveCfg = Release|x64
+		{B8F85EA2-2632-431A-8B05-B6611A2C3DA2}.Release|x64.Build.0 = Release|x64
+		{88B1A75E-71F1-47CF-A146-30340CE8E150}.Debug|x64.ActiveCfg = Debug|x64
+		{88B1A75E-71F1-47CF-A146-30340CE8E150}.Debug|x64.Build.0 = Debug|x64
+		{88B1A75E-71F1-47CF-A146-30340CE8E150}.Release|x64.ActiveCfg = Release|x64
+		{88B1A75E-71F1-47CF-A146-30340CE8E150}.Release|x64.Build.0 = Release|x64
+		{C2238B36-BA0A-432D-9381-A638B6509BFD}.Debug|x64.ActiveCfg = Debug|x64
+		{C2238B36-BA0A-432D-9381-A638B6509BFD}.Debug|x64.Build.0 = Debug|x64
+		{C2238B36-BA0A-432D-9381-A638B6509BFD}.Release|x64.ActiveCfg = Release|x64
+		{C2238B36-BA0A-432D-9381-A638B6509BFD}.Release|x64.Build.0 = Release|x64
+		{58997C83-5370-4D16-AFAF-019AE47B75F6}.Debug|x64.ActiveCfg = Debug|x64
+		{58997C83-5370-4D16-AFAF-019AE47B75F6}.Debug|x64.Build.0 = Debug|x64
+		{58997C83-5370-4D16-AFAF-019AE47B75F6}.Release|x64.ActiveCfg = Release|x64
+		{58997C83-5370-4D16-AFAF-019AE47B75F6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE87984-A9B0-49E3-9C4C-FE48011FBA97}
+	EndGlobalSection
+EndGlobal
